@@ -39,6 +39,9 @@ Used Visual Studio Code to develop the csv-reader application.
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/45230142/50059381-5aac5680-0186-11e9-8a0f-c078001c91f1.jpeg)
+
 #### Developed by [Ajitav Chatterjee](https://github.com/ajitavchatterjee)
 
-NOTE: Developed as a Dummy project for Proof of Concept only. It has got nothing to do with actual Rabobank codes/resources.
+#### NOTE: Developed as a Dummy project for Proof of Concept only. It has got nothing to do with actual Rabobank codes/resources.
