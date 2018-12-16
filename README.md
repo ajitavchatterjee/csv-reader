@@ -10,7 +10,7 @@ Keep in mind the following:
 3. Act as if this code is meant to be production code for the Rabobank
 
 ## Functional Overview
-This is an sample Angluar6 app which will to Read .csv file. Application read, parse and display csv file contents using HTML5 file reader API.
+This is an sample Angluar 6 app which will to read a .csv file. CSV reader application reads, parses and displays csv file contents using HTML5 file reader API.
 
 ## Requirements
 Used Visual Studio Code to develop the csv-reader application.
@@ -44,4 +44,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 #### Developed by [Ajitav Chatterjee](https://github.com/ajitavchatterjee)
 
-#### NOTE: Developed as a Dummy project for Proof of Concept only. It has got nothing to do with actual Rabobank codes/resources.
+##### DISLAIMER: Developed as a Dummy project for Proof of Concept only. It has got nothing to do with actual Rabobank codes/resources.
