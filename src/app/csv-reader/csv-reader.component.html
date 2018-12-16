@@ -1,0 +1,20 @@
+<fieldset>
+  <legend>Upload Area</legend>
+  <form action="" method="post">
+      <label for="file">Upload Your File Here</label>
+      <input type="file" name="file" id="file" (change)="onFileChange($event)">
+    </form>
+</fieldset>
+
+<table class="csv-table">
+  <thead>
+    <tr>
+      <th *ngFor="let header of headerList">{{header|uppercase}}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let datum of data">
+      <td *ngFor="let header of headerList">{{datum[header]}}</td>
+    </tr>
+  </tbody>
+</table>
