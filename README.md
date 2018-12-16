@@ -21,19 +21,19 @@ Used Visual Studio Code to develop the csv-reader application.
 
 1. Clone the application
 
-  git clone https://github.com/ajitavchatterjee/csv-reader.git
+    git clone https://github.com/ajitavchatterjee/csv-reader.git
 
 2. Open command prompt, navigate to application folder and run below command to install all the dependencies
 
-  npm install
+    npm install
 
 3. Run the below command to start the application
 
-ng serve -o
+    ng serve -o
 
 4. After the server starts, the application will get open in below URL in browser:
 
-  http://localhost:4200
+    http://localhost:4200
 
 ## Build
 
