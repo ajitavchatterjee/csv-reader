@@ -16,8 +16,8 @@ This is an sample Angluar 6 app which will to read a .csv file. CSV reader appli
 Used Visual Studio Code to develop the csv-reader application.
 1. Node version 8.12
 2. npm version 5.3
-3. APIAngular CLI version 6.1.1
-4. HTML5 file reader 
+3. Angular 6 CLI version 6.1.1
+4. HTML5 file reader API
 
 ## Steps to Run
 
